@@ -47,6 +47,10 @@ header {
     float: center ;
 }
 
+img {
+    margin-left: 0;
+}
+
 footer {
     text-align: center;
     background-color: #333;
